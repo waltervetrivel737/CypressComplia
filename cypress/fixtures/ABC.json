@@ -1,0 +1,16 @@
+{
+  "Txt_InProgressLic": "There is already an update or renewal application is in-progress for this license number. Please wait for it to get completed.",
+  "Txt_Submitted": "Your application has been filed with the Alabama Alcoholic Beverage Control Board.Your reference code is",
+  "IRCU_BlueBG": "Select the correct Industry Representative license number from the dropdown menu below.  If you hold an Industry Representative Card for multiple businesses, please ensure you select the license number that corresponds with the appropriate business.  Please note:  If your Industry Representative Card has been deactivated or is expired, it may not appear in the drop down menu. ",
+  "IRCU_QQ1": "Do you want to update your name? ",
+  "IRCU_QQ2": "Do you want to update your Digital Photo? ",
+  "IRCU_QQ3": "Do you want to update your email address or phone number? ",
+  "IRCU_QQ4": "Do you have a change to your residence address? ",
+  "IRCU_QQ5": "Do you want to update something else? ",
+  "IRCU_Tab1": "Alabama - New Industry Representative Application",
+  "IRCU_Tab2":"Company Information",
+  "IRCU_Tab3":"Questions and Attestations",
+  "IRCU_Tab4":"Documents",
+  "IRCU_Tab5":"Review"
+
+}
